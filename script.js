@@ -234,7 +234,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 setTimeout(() => paddle.width /= 1.5, 10000);
                 break;
             case 'multiball':
-                // Implement multiball logic here
                 break;
         }
     }
